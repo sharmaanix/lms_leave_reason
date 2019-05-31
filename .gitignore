@@ -43,9 +43,6 @@ nosetests.xml
 coverage.xml
 *.cover
 
-#external data
-data/external/
-
 # Translations
 *.mo
 *.pot
@@ -78,13 +75,6 @@ target/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data from source control by default
-<<<<<<< HEAD
-#/data/
-=======
-
->>>>>>> 73184fd28f40c2ee7e4473eb3202873e8f8eda3c
-
 # Mac OS-specific storage files
 .DS_Store
 
@@ -94,3 +84,7 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+
+#external dataset
+data/external/
