@@ -62,7 +62,7 @@ target/
 # Database
 *.db
 *.rdb
-
+data/
 # Pycharm
 .idea
 
