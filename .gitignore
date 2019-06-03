@@ -84,3 +84,7 @@ data/
 
 # Mypy cache
 .mypy_cache/
+
+
+#external dataset
+data/external/
